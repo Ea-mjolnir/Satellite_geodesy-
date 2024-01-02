@@ -1,0 +1,14 @@
+               EARTH ORIENTATION PARAMETER (EOP) PRODUCT CENTER CENTER (PARIS OBSERVATORY)
+                      INTERNATIONAL EARTH ROTATION AND REFERENCE SYSTEMS SERVICE
+                                    EOP (IERS) 14 C04 TIME SERIES                 
+               Description: https://hpiers.obspm.fr/eoppc/eop/eopc04/C04.guide.pdf
+                            contact: christian.bizouard@obspm.fr
+
+  
+             FORMAT(3(I4),I7,2(F11.6),2(F12.7),2(F11.6),2(F11.6),2(F11.7),2(F12.6))
+##################################################################################
+  
+      Date      MJD      x          y        UT1-UTC       LOD         dPsi      dEps       x Err     y Err   UT1-UTC Err  LOD Err    dPsi Err   dEpsilon Err
+                         "          "           s           s            "         "        "          "          s           s            "         "
+     (0h UTC)
+
